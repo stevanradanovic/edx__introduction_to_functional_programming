@@ -1,3 +1,3 @@
 module Homework where
 
-placeholder x = x * x
+placeholder x = x ^ x
